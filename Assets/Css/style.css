@@ -1,0 +1,83 @@
+button{
+    margin: 1rem;
+    height: 2rem;
+    width: 5rem;
+    font-size: 1rem;
+    font-family: 'Quantico', sans-serif;
+    border: 0.3rem ridge  rgb(119, 77, 77) ;
+
+}
+.header{
+    text-align: center;
+    background-color: rgb(193, 44, 44);
+    border-radius: 1rem;
+    border: 1rem inset  rgb(119, 77, 77) ;
+    font-family: 'Press Start 2P', cursive;
+    margin-bottom: 0.5rem;
+}
+
+.passContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem;
+    border: 1rem outset  rgb(119, 77, 77) ;
+    background-color: rgb(193, 44, 44);
+    font-family: 'Press Start 2P', cursive;
+    margin-bottom: 0.5rem;
+}
+
+.bigContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem;
+    border: 1rem outset  rgb(119, 77, 77) ;
+    background-color: rgb(193, 44, 44);
+    font-family: 'Press Start 2P', cursive;
+}
+.container{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    border: 1rem ridge rgb(119, 77, 77) ;
+    background-color: rgb(193, 44, 44);
+   padding: 2rem;
+}
+.imgUno{
+    width: 15rem;
+    height: 15rem;
+    margin: 1rem;
+background-image: url(../Img/580b57fcd9996e24bc43c325.png);    
+background-position: center;
+    background-size: cover;
+
+}
+.imgDos{
+    width: 15rem;
+    height: 15rem;
+    margin: 1rem;
+background-image: url(../Img/Squirtle.png); 
+ background-position: center;
+    background-size: cover;
+
+
+}.imgTres{
+    width: 15rem;
+    height: 15rem;
+    margin: 1rem;
+background-image: url(../Img/Bulbasaur.png);
+    background-position: center;
+    background-size: cover;
+
+}.imgCuatro{
+    width: 15rem;
+    height: 15rem;
+    margin: 1rem;
+    background-image: url(../Img/004.png);
+    background-position: center;
+    background-size: cover;
+
+}
